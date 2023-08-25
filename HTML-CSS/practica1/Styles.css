@@ -1,0 +1,40 @@
+.contenedor-menu{
+width: 100%;
+height: 60px;
+background-color: gray;
+display: flex;
+}
+
+.menu1{
+    background-color: beige;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagen-icono{
+    width: 3rem;
+    margin: 0 10px;
+}
+
+.input-with-icon {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-icon {
+    width: 16px;
+    height: 16px;
+    margin-left: -20px; /* Ajusta la posición del ícono */
+  }
+  
+  .search-input {
+    padding: 5px 25px 5px 10px; /* Ajusta el padding para el espacio del ícono */
+    font-style: italic;
+    color: gray;
+    border: 1px solid gray;
+    border-radius: 5px;
+  }
+  
