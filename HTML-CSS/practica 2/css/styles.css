@@ -2,7 +2,11 @@
     margin: 0;
     padding: 0;
 }
-
+body{
+    background-image: url('/images/lenguaje-programacion.webp');
+    background-size: cover; /* Ajustar imagen al tamaño del contenedor */
+  background-repeat: no-repeat; /* Evitar repetición de la imagen */
+}
 .contenedor-menu{
     width: 100%;
     height: 50px;
@@ -25,7 +29,7 @@
     position: absolute;
 }
 
-.div-java{
+.div-lenguajes{
     width: 60%;
     background-color: #EFEAE5;
     text-align: justify;
@@ -34,4 +38,7 @@
 }
 h1{
     text-align: center;
+}
+.div-python{
+    background-color: aquamarine;
 }
