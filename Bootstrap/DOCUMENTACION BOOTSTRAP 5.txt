@@ -1,0 +1,10 @@
+TAMAÑOS DE PANTALLA EN BOOTSTRAP 5
+
+sm: small
+md: medium
+lg: large
+xl: extra large
+
+
+my: margin eje y ---> mx: margin eje x
+py: pading eje y ---> px: pading eje x
