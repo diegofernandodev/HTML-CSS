@@ -1,0 +1,4 @@
+-js correo capturar boton
+-enviar correo con los datos del formulario
+-bootstrap para ajustar pagina- pantalla grande 3 colum, mediana 2 y pequeña 1,
+-html ycss menu hamburguesa desplegable.
